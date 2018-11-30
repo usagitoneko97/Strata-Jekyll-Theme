@@ -23,7 +23,7 @@ social:
     - https://github.com/comfusion/strata-reloaded-jekyll-template
 
 permalink: pretty
-
+excerpt_separator: <!--more-->
 gems:
   - "jekyll-feed"
   - "jekyll-seo-tag"
