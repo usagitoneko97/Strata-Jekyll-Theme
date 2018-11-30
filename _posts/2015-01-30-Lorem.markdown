@@ -1,7 +1,14 @@
 ---
 layout: post
+title: first post in my blog
+date: 2018-11-29
+categories: update
 ---
 
-![](/Strata-Jekyll-Theme/images/thumbs/06.jpg)
-
+<img src="/images/fulls/first_post.jpg" class="fit image"> 
+# A section
 This is a post for testing purpose.
+
+## A subsection
+If you are having a bad day, let me cheer you up.
+
