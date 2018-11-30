@@ -4,7 +4,7 @@
   new_window: true
 - name: github
   link: github.com/usagitoneko97
-  social_icon: RSS
+  social_icon: Github
   new_window: true
 - name: twitter
   link: 'https://twitter.com/daretobacon'
