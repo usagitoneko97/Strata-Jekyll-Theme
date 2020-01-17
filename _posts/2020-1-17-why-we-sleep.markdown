@@ -6,7 +6,7 @@ categories: non-fiction
 tags: sleep non-fiction
 ---
 <img src="/images/fulls/cat-sleep.jpg" class="fit image"> 
-It's an important day for Meliz. Pairs of unnerving eyes starring at her with jittering expressions. She slowly come to sense, raising her weak and shivering arms to her abdoment area, feeling the emptiness that had once housed a ball of excitement. The door swung open, a man with long, brown and feminine hair with a brown moustache walked in, time is simply a 4th-dimension concept that everybody surrounding seems to forgot, as the only sound matters in that moment is the crying of the little ball, now flailing his arms all over. 
+It's an important day for Meliz. Pairs of unnerving eyes starring at her with jittering expressions. She slowly come to sense, raising her weak and shivering arms to her abdoment area, feeling the emptiness that had once housed a ball of excitement. The door swung open, a man with long, brown and feminine hair with a brown moustache walked in. Time is simply a 4th-dimension concept that everybody surrounding seems to forgot, as the only sound matters in that moment is the crying of the little ball, now flailing his arms all over. 
 
 Slowly and gently Meliz put her hand over the baby, caressing with such care that as though as a slight pressure will immediately shattered it into pieces. The man deliberately clear his throat, attempting to restore the forgotten concept of time. After thirteen inches has passed for Meliz, she fixed her eyes on the man, waiting for his relevation.
 
