@@ -6,7 +6,7 @@ google_analytics_key: ""
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
-    A Software developer.  Working on static analysis. Wrote about productivity guide sometimes. 
+    A guy. Write about things.
 
 # Author details for the jekyll-seo-tag gem
 author:
