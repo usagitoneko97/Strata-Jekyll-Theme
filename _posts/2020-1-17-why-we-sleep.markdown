@@ -6,7 +6,7 @@ categories: non-fiction
 tags: sleep non-fiction
 ---
 <img src="/images/fulls/cat-sleep.jpg" class="fit image"> 
-It's an important day for Meliz. The lights around stared at her nakedly, exposing her every layer of anxiety. She slowly come to sense, raising her weak and shivering arms to her abdoment area, feeling the emptiness that had once housed a ball of excitement. The door swung open, a man with long, brown and feminine hair with a brown moustache walked in, carrying a baby wrapped in a white towel. Time is simply a 4th-dimension concept that she seems to forgot, as the only sound matters in that moment is the crying of the little ball, now flailing his arms all over, unintelligibly.
+It's an important day for Meliz. The lights around staring at her nakedly, exposing her every layer of anxiety. She slowly come to sense, raising her weak and shivering arms to her abdoment area, feeling the emptiness that had once housed a ball of excitement. The door swings open, a man with long, brown and feminine hair with a brown moustache walked in, carrying a baby wrapped in a white towel. Time is simply a 4th-dimension concept that she seems to forget, as the only sound matters in that moment is the crying of the little ball, now flailing his arms all over, unintelligibly.
 
 Slowly and gently Meliz put her hand over the baby, caressing with such care that as though as a slight pressure will immediately shattering it into pieces. The man deliberately clear his throat, attempting to restore the forgotten concept of time. After thirteen inches has passed for Meliz, she regained her sense and fixed her eyes on the man, waiting for his relevation.
 
@@ -34,6 +34,23 @@ Once you begin your sweet dreams, the cleaning aunty in your brain will help pur
 But what will happen if there are still adenosine leftover? (i.e. not enough sleep). You'll of course feel sleepy and lots of people will consume caffeine -- which will help block the receptors, thus merely just delaying the building of adenosine since adenosine will continue to be release. Once the effect of caffeine gets weaker, the no-where-to-go adenosine will rush towards the receptor area, which will hit you like a truck.
 
 Now as I'm finishing up my pieces, the sun is already beaming at me. I've overcome the pressure to sleep and managed to pull an all-nighter. After I've published my article, the overpowering sleepiness that I experienced during the night seems to be dissapearing. I've had the energy to gather myself to go and watch "cats" alone (since someone rejected me.) The reason is not because "cats" is interesting enough to chase away all those sleepiness, but rather the effects of circadian
-rhythm kicking in for the rescue. Circadian rhythm wouldn't take into account whether you have slept or not, or the level of the adenosine. The two factors are totally independent of each other. Keep in mind that adenosine will still keep building up, and by the end of the night, I will feel the effect like getting hit by 2 trucks.
+rhythm kicking in for the rescue. Circadian rhythm wouldn't take into account whether you have slept or not, or the level of the adenosine. The two factors are totally independent of each other. Keep in mind that adenosine will still keep building up, and by the end of the night, I will feel the effect of getting hit by 2 trucks.
+
+# Defining sleep
+Sleep is such a wonderful thing, we forget the concept of time, we dream about the impossible, reflecting on what had happened on the day. Memories are being "replayed" at the level of brain-cell, and it's replayed far more slowly. It's the best evidence on explaining why we believe our dream lasts far longer than we feel. As you would probably feel, sleep can be categorized into two -- dream sleep and light sleep, otherwise known as Rapid Eye Movement(REM) and Non Rapid Eye Movement(NREM)
+respectively. 
+
+During REM stage, the brain activity is identical to that when you are awake, for which is associated with dreams. NREM on the other hand produces little to none and consistent brain activities, suggesting that any remaining consciousnes had slipped pass you as you fell deeper into the slumber. 
+
+If you can measure the brain wave that you produced during sleep, you'll notice NREM produces slow and steady wave, so steady that you can predict the next few wave with ease. The REM/awake stage? It looks like a kid's sketch book. The wave is so frenetic that it's impossible to predict.
+
+Now let's see what impact it has on us. Now consider this. 5G is making it's buzz as the next gen thing, but what's actually slowing its wide spread adoption of 5G is the unreliability of the connection. The reason why 5G can outperform 4G by a mile is due to the fact that 5G transmit in a much higher frequency than its counterpart. Higher frequency is way more susceptible to external disruption and travel in much shorter distance. In contrast, lower frequency wave found in 3G or 4G
+travel much further distance and can get pass obstacle easily. That explained why you'll always get 3G pretty much anywhere.
+
+The cellular network here is a perfect analogy to our brain wave. The slow and steady waves will sweep across the brain, allowing loger range of communication and carrying memory packets (recent experience) that is collected from the frenetic brain wave when you're awake, away from a fragile location to a safer long-term storage location reliably. So, burning the midnight oil during exam is not a reliable way of studying after all.
+
+# Closing thoughts
+I spent countless dream-night, eyes open, pondering about things that matters to me, resisting the sleep-demon that tries to drag me away, away from the intoxicating reality to unconscious realm of nothingness. As I lie in the bed, I smile, I wept, I gloom as I recount past events, and finally leave behind everything and cast myself off to the deepest slumber with a mind fill with the same anticipation for a riveting tommorow.
 
 *Copyright@Ho Guo Xian, facts from "why we sleep" by Matthew Walker.*
+*Email me on hogouxian@gmail.com*
