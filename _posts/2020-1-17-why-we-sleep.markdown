@@ -64,6 +64,4 @@ before.
 
 *- Ho Guo Xian, facts and figures from "why we sleep" by Matthew Walker.*
 
-*©2020 Ho Guo Xian All Rights Reserved*
-
 *Email me @ hogouxian@gmail.com*
