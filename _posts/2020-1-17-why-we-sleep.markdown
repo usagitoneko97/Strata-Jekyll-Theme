@@ -10,7 +10,7 @@ It's an important day for Meliz. The lights around staring at her nakedly, expos
 
 Slowly and gently Meliz put her hand over the baby, caressing with such care that as though as a slight pressure will immediately shattering it into pieces. The man deliberately clears his throat, attempting to restore the forgotten concept of time. After thirteen inches has passed for Meliz, she regained her sense and fixed her eyes on the man, waiting for his revelation.
 
-"Errrr, I'm so sorry Meliz, but you know, I need to tell you something. I didn't like to do this but here we go. ", said the man scratching his bearded chin. After he sighs a deep and sorrowful sigh, he continued.
+"Errrr, I'm so sorry Meliz, but you know, I need to tell you something," said the man scratching his bearded chin. After he sighs a deep and sorrowful sigh, he continued.
 "From this moment forth, and for the rest of your child’s entire life, he will repeatedly and routinely lapse into a state of apparent coma. It might even resemble death at times. And while his body lies still his mind will often be filled with stunning, bizarre hallucinations. This state will consume one-third of his life."
 
 "It's called sleep," the god concluded.
