@@ -31,10 +31,14 @@ The second factor is a chemical substance that builds up in your brain and creat
 
 Once you begin your sweet dreams, the cleaning aunty in your brain will help purge all adenosine away, thus preparing you for a fresh day when you wake up. The low level adenosine coupled with high intensity of circadian rhythm will make you feel all-time fresh. 
 
+CIRCADIAN GRAPH
+
 But what will happen if there are still adenosine leftover? (i.e. not enough sleep). You'll of course feel sleepy and lots of people will consume caffeine -- which will help block the receptors, thus merely just delaying the building of adenosine since adenosine will continue to be release. Once the effect of caffeine gets weaker, the no-where-to-go adenosine will rush towards the receptor area, which will hit you like a truck.
 
 Now as I'm finishing up my pieces, the sun is already beaming at me. I've overcome the pressure to sleep and managed to pull an all-nighter. After I've published my article, the overpowering sleepiness that I experienced during the night seems to be dissapearing. I've had the energy to gather myself to go and watch "cats" alone (since someone rejected me.) The reason is not because "cats" is interesting enough to chase away all those sleepiness, but rather the effects of circadian
 rhythm kicking in for the rescue. Circadian rhythm wouldn't take into account whether you have slept or not, or the level of the adenosine. The two factors are totally independent of each other. Keep in mind that adenosine will still keep building up, and by the end of the night, I will feel the effect of getting hit by 2 trucks.
+
+CIRCADIAN ALLNIGHTER
 
 # Defining sleep
 Sleep is such a wonderful thing, we forget the concept of time, we dream about the impossible, reflecting on what had happened on the day. Memories are being "replayed" at the level of brain-cell, and it's replayed far more slowly. It's the best evidence on explaining why we believe our dream lasts far longer than we feel. As you would probably feel, sleep can be categorized into two -- dream sleep and light sleep, otherwise known as Rapid Eye Movement(REM) and Non Rapid Eye Movement(NREM)
@@ -43,6 +47,8 @@ respectively.
 During REM stage, the brain activity is identical to that when you are awake, for which is associated with dreams. NREM on the other hand produces little to none and consistent brain activities, suggesting that any remaining consciousnes had slipped pass you as you fell deeper into the slumber. 
 
 If you can measure the brain wave that you produced during sleep, you'll notice NREM produces slow and steady wave, so steady that you can predict the next few wave with ease. The REM/awake stage? It looks like a kid's sketch book. The wave is so frenetic that it's impossible to predict.
+
+<img src="/images/brain-wave.png"> 
 
 Now let's see what impact it has on us. Now consider this. 5G is making it's buzz as the next gen thing, but what's actually slowing its wide spread adoption of 5G is the unreliability of the connection. The reason why 5G can outperform 4G by a mile is due to the fact that 5G transmit in a much higher frequency than its counterpart. Higher frequency is way more susceptible to external disruption and travel in much shorter distance. In contrast, lower frequency wave found in 3G or 4G
 travel much further distance and can get pass obstacle easily. That explained why you'll always get 3G pretty much anywhere.
