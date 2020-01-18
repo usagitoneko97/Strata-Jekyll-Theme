@@ -48,7 +48,7 @@ During REM stage, the brain activity is identical to that when you are awake, fo
 
 If you can measure the brain wave that you produced during sleep, you'll notice NREM produces slow and steady wave, so steady that you can predict the next few wave with ease. The REM/awake stage? It looks like a kid's sketch book. The wave is so frenetic that it's impossible to predict.
 
-<img src="/images/brain-wave.png"> 
+<img src="/images/brain-wave.png" alt="brain wave graph" style="width:500px;height:600px;"> 
 
 Now let's see what impact it has on us. Now consider this. 5G is making it's buzz as the next gen thing, but what's actually slowing its wide spread adoption of 5G is the unreliability of the connection. The reason why 5G can outperform 4G by a mile is due to the fact that 5G transmit in a much higher frequency than its counterpart. Higher frequency is way more susceptible to external disruption and travel in much shorter distance. In contrast, lower frequency wave found in 3G or 4G
 travel much further distance and can get pass obstacle easily. That explained why you'll always get 3G pretty much anywhere.
