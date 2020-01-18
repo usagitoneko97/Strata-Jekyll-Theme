@@ -53,13 +53,14 @@ If you can measure the brain wave that you produced during sleep, you'll notice 
 
 <img src="/images/brain-wave.png" alt="brain wave graph" style="width:35%;height:35%;"> 
 
-Now let's see what impact it has on us. Now consider this. 5G is making its buzz as the next-gen thing, but what's slowing its widespread adoption of 5G is the unreliability of the connection. The reason why 5G can outperform 4G by a mile is since 5G transmit in a much higher frequency than its counterpart. Higher frequency is way more susceptible to external disruption and travel in a much shorter distance. In contrast, lower frequency wave found in 3G or 4G
+Now let's see what impact it has on us. Consider this. 5G is making its buzz as the next-gen thing, but what's slowing its widespread adoption of 5G is the unreliability of the connection. The reason why 5G can outperform 4G by a mile is since 5G transmit in a much higher frequency than its counterpart. Higher frequency is way more susceptible to external disruption and travel in a much shorter distance. In contrast, lower frequency wave found in 3G or 4G
 travel much further distance and can get pass obstacles easily. That explained why you'll always get 3G pretty much anywhere.
 
 The cellular network here is a perfect analogy to our brain wave. The slow and steady waves will sweep across the brain, allowing a longer range of communication and carrying memory packets (recent experience) that is collected from the frenetic brain wave when you're awake, away from a fragile location to a safer long-term storage location reliably. So, burning the midnight oil during the exam is not a reliable way of studying after all.
 
 # Closing thoughts
-I spent countless dream-night, eyes open, pondering about things that matter to me, resisting the sleep-demon that tries to drag me away, away from the intoxicating reality to the unconscious realm of nothingness. As I lie in the bed, I smile, I wept, I gloom as I recount past events, and finally leave behind everything and cast myself off to the deepest slumber with a mind filled with the same anticipation for an exciting tomorrow.
+sleep is the best gift you can get for yourself. I spent countless dream-night, eyes open, pondering about things that matter to me, resisting the sleep-demon that tries to drag me away, away from the intoxicating reality to the unconscious realm of nothingness. As I lie in the bed, I smile, I wept, I gloom as I recount past events, and finally leave behind everything and cast myself off to the deepest slumber, refreshing everything, wake up with a mind filled with the same anticipation as ever
+before.
 
 *- Ho Guo Xian, facts and figures from "why we sleep" by Matthew Walker.*
 
