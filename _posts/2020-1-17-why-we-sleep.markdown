@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why we sleep - how pressing snooze might save your life
-date: 2020-1-17
+date: 2020-1-18
 categories: non-fiction
 tags: sleep non-fiction
 ---
@@ -62,4 +62,4 @@ The cellular network here is a perfect analogy to our brain wave. The slow and s
 I spent countless dream-night, eyes open, pondering about things that matters to me, resisting the sleep-demon that tries to drag me away, away from the intoxicating reality to unconscious realm of nothingness. As I lie in the bed, I smile, I wept, I gloom as I recount past events, and finally leave behind everything and cast myself off to the deepest slumber with a mind fill with the same anticipation for a riveting tommorow.
 
 *Copyright@Ho Guo Xian, facts from "why we sleep" by Matthew Walker.*
-*Email me on hogouxian@gmail.com*
+*Email me @ hogouxian@gmail.com*
