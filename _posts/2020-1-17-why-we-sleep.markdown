@@ -61,6 +61,8 @@ The cellular network here is a perfect analogy to our brain wave. The slow and s
 # Closing thoughts
 I spent countless dream-night, eyes open, pondering about things that matter to me, resisting the sleep-demon that tries to drag me away, away from the intoxicating reality to the unconscious realm of nothingness. As I lie in the bed, I smile, I wept, I gloom as I recount past events, and finally leave behind everything and cast myself off to the deepest slumber with a mind filled with the same anticipation for an exciting tomorrow.
 
-*Copyright@Ho Guo Xian, facts from "why we sleep" by Matthew Walker.*
+*- Ho Guo Xian, facts and figures from "why we sleep" by Matthew Walker.*
+
+*©2020 Ho Guo Xian All Rights Reserved*
 
 *Email me @ hogouxian@gmail.com*
